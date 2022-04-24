@@ -1,40 +1,68 @@
 {
-    "user": {
-        "firstName": "john1",
-        "lastName": "smith1",
-        "age": 25,
-        "gender": "Male",
-        "hobbiesList": [
-            {
-                "hobby": "reading"
-            }
-        ],
-        "collegeList": [
-            {
-                "courseName": "python",
-                "collegeName": "IITB"
-            }
-        ],
-        "workList": [
-            {
-                "workName": "software devloper intern",
-                "workLocation": "bangluru"
-            }
-        ],
-        "interestedInList": [
-            {
-                "interestedGender": "Male"
-            }
-        ],
-        "likedList": [
-            {
-                "likedUserId": "5"
-            }
-        ],
-        "likedByList": [
-            {
-                "likedByUserId": "2"
-            }
-        ]
-    }
+    "firstName": "Manish",
+    "lastName": "kumar",
+    "age": 22,
+    "gender": "Male",
+    "hobbiesList": [
+        {
+            "hobby": "Sccore"
+        },
+        {
+            "hobby": "criket"
+        }
+    ],
+    "collegeList": [
+        {
+            "courseName": "python",
+            "collegeName": "NSIT"
+        },
+        {
+            "courseName": "java",
+            "collegeName": "IITM"
+        }
+    ],
+    "workList": [
+        {
+            "workName": "software devloper intern",
+            "workLocation": "bangluru"
+        },
+        {
+            "workName": "software devlopement engineer 1",
+            "workLocation": "Hyderabad"
+        },
+        {
+            "workName": "software devlopement engineer 2",
+            "workLocation": "bangluru"
+        }
+    ],
+    "interestedInList": [
+        {
+            "interestedGender": "Male"
+        }
+    ],
+    "likedList": [
+        {
+            "likedByUser": "3"
+        },
+        {
+            "likedByUser": "1"
+        },
+        {
+            "likedByUser": "7"
+        },
+        {
+            "likedByUser": "6"
+        }
+    ],
+    "likedByList": [
+        {
+            "likedByUserId": "1"
+        },
+        {
+            "likedByUserId": "7"
+        },
+        {
+            "likedByUserId": "9"
+        }
+    ]
 }
