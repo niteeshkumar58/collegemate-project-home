@@ -1,0 +1,40 @@
+{
+    "user": {
+        "firstName": "john1",
+        "lastName": "smith1",
+        "age": 25,
+        "gender": "Male",
+        "hobbiesList": [
+            {
+                "hobby": "reading"
+            }
+        ],
+        "collegeList": [
+            {
+                "courseName": "python",
+                "collegeName": "IITB"
+            }
+        ],
+        "workList": [
+            {
+                "workName": "software devloper intern",
+                "workLocation": "bangluru"
+            }
+        ],
+        "interestedInList": [
+            {
+                "interestedGender": "Male"
+            }
+        ],
+        "likedList": [
+            {
+                "likedUserId": "5"
+            }
+        ],
+        "likedByList": [
+            {
+                "likedByUserId": "2"
+            }
+        ]
+    }
+}
